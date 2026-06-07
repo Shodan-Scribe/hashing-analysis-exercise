@@ -1,5 +1,11 @@
 # hashing-analysis-exercise
-Exploring SHA-256  
+Exploring SHA-256
+
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Tool](https://img.shields.io/badge/Tool-PowerShell-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Data%20Integrity-red)
+![Focus](https://img.shields.io/badge/Focus-Cryptographic%20Hashing-red)
 
 # Lab: Cryptographic Hashing and the Avalanche Effect
 
